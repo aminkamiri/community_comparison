@@ -1,0 +1,4 @@
+,method1,method2,euclidean_distance,cosine_similarity,pearson_correlation,spearman_correlation,jaccard_similarity,overlap_coefficient,rmsd,manhattan_distance
+0,method1,method2,0.0,1.0,,,1.0,1.0,0.0,0
+1,method1,method3,2.449489742783178,0.9045340337332909,1.0,1.0,0.6666666666666666,0.75,1.4142135623730951,4
+2,method2,method3,2.449489742783178,0.9045340337332909,1.0,1.0,0.6666666666666666,0.75,1.4142135623730951,4

@@ -1,0 +1,4 @@
+,method_name,no_of_community,min_node_size,max_node_size,distribution_node_size
+0,method1,2,4,4,[4 4]
+1,method2,2,4,4,[4 4]
+2,method3,3,2,3,[3 3 2]

@@ -1,0 +1,4 @@
+,method1,method2,similarity_score1,similarity_score2
+0,method1,method2,1.0,1.0
+1,method1,method3,0.5952380952380952,0.475
+2,method2,method3,0.5952380952380952,0.475
