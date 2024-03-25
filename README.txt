@@ -3,6 +3,7 @@ You are in a network analytics project where communities have been detected. How
 competing ways to detect communities – and they have all been shown to give valuable insights. Before
 making any future decision on the implementation of the project, the differences in the detected
 communities need to be analyzed further. You pick up this task for the upcoming week.
+
 Objectives
 Perform an exploratory data analysis and report your most interesting findings:
 1. Determine which two community detection methods are the most similar.
